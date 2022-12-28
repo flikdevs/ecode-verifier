@@ -1,0 +1,1702 @@
+[
+  {
+    "code": "E100",
+    "description": "Curcumin/zerdeçal",
+    "type": "Muboh"
+  },
+  {
+    "code": "E101",
+    "description": "Riboflavin (Vitamin B2)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E102",
+    "description": "Tartazin",
+    "type": "Halol"
+  },
+  {
+    "code": "E103",
+    "description": "xrizoin rezosinol",
+    "type": "Muboh"
+  },
+  {
+    "code": "E104",
+    "description": "Xinolin sariq",
+    "type": "Muboh"
+  },
+  {
+    "code": "E105",
+    "description": "Tez sariq AB",
+    "type": "Muboh"
+  },
+  {
+    "code": "E107",
+    "description": "Sariq 2G",
+    "type": "Halol"
+  },
+  {
+    "code": "E110",
+    "description": "Quyosh botishi sariq FCF / apelsin sariq S",
+    "type": "Muboh"
+  },
+  {
+    "code": "E120",
+    "description": "Koxineal/karmin kislotasi",
+    "type": "Harom"
+  },
+  {
+    "code": "E122",
+    "description": "Karmuazin / Azorubin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E123",
+    "description": "Amaranth Dye",
+    "type": "Muboh"
+  },
+  {
+    "code": "E124",
+    "description": "Ponceau 4R / Cochineal Red A",
+    "type": "Harom"
+  },
+  {
+    "code": "E127",
+    "description": "Eritrozin BS",
+    "type": "Muboh"
+  },
+  {
+    "code": "E128",
+    "description": "Red 2G",
+    "type": "Muboh"
+  },
+  {
+    "code": "E129",
+    "description": "Allura Red AC",
+    "type": "Halol"
+  },
+  {
+    "code": "E131",
+    "description": "Patent Blue V",
+    "type": "Muboh"
+  },
+  {
+    "code": "E132",
+    "description": "Indigo Carmine / Idigotin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E133",
+    "description": "Brilliant Blue FCF",
+    "type": "Halol"
+  },
+  {
+    "code": "E140",
+    "description": "Xlorofil",
+    "type": "Muboh"
+  },
+  {
+    "code": "E150a",
+    "description": "Karamel rangi/kimyoviy moddalar bilan",
+    "type": "Halol"
+  },
+  {
+    "code": "E150b",
+    "description": "Karamel rangi/kimyoviy moddalar bilan",
+    "type": "Halol"
+  },
+  {
+    "code": "E150c",
+    "description": "Karamel rangi/kimyoviy moddalar bilan",
+    "type": "Halol"
+  },
+  {
+    "code": "E150d",
+    "description": "Karamel rangi/kimyoviy moddalar bilan",
+    "type": "Halol"
+  },
+  {
+    "code": "E151",
+    "description": "Black PN / Brilliant Black BN",
+    "type": "Halol"
+  },
+  {
+    "code": "E153",
+    "description": "Uglerod qora / Sabzavotli uglerod (ko'mir)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E154",
+    "description": "Brown FK",
+    "type": "Halol"
+  },
+  {
+    "code": "E155",
+    "description": "Brown HT",
+    "type": "Muboh"
+  },
+  {
+    "code": "E160a",
+    "description": "Alfa, Beta, Gamma Karotin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E160b",
+    "description": "Annatto, Bixin, Norbixin",
+    "type": "Halol"
+  },
+  {
+    "code": "E160c",
+    "description": "Kapsantin / Kapsorbin",
+    "type": "Halol"
+  },
+  {
+    "code": "E160d",
+    "description": "Likopen",
+    "type": "Muboh"
+  },
+  {
+    "code": "E160e",
+    "description": "Beta-apo-8-karotinal",
+    "type": "Muboh"
+  },
+  {
+    "code": "E160f",
+    "description": "Beta-apo-8-kartonik kislotaning etil efiri",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161a",
+    "description": "Flavoksantin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161b",
+    "description": "Lutein",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161c",
+    "description": "Kriptoksantin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161d",
+    "description": "Rubiksantin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161e",
+    "description": "Violaxanthin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161f",
+    "description": "Rodoxanthin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E161g",
+    "description": "Kantaksantin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E162",
+    "description": "Beetroot Red / Betanin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E163",
+    "description": "Antosiyaninlar",
+    "type": "Halol"
+  },
+  {
+    "code": "E170",
+    "description": "Kalsiy karbonat (bo'r)",
+    "type": "Halol"
+  },
+  {
+    "code": "E171",
+    "description": "titan dioksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E172",
+    "description": "Temir oksidi va temir gidroksidlari",
+    "type": "Halol"
+  },
+  {
+    "code": "E173",
+    "description": "alyuminiy",
+    "type": "Halol"
+  },
+  {
+    "code": "E174",
+    "description": "Kumush",
+    "type": "Halol"
+  },
+  {
+    "code": "E175",
+    "description": "Oltin",
+    "type": "Halol"
+  },
+  {
+    "code": "E180",
+    "description": "Pigment Rubin / Lithol Rubine BK",
+    "type": "Muboh"
+  },
+  {
+    "code": "E200",
+    "description": "Sorbin kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E201",
+    "description": "Soduim Sorbate",
+    "type": "Halol"
+  },
+  {
+    "code": "E202",
+    "description": "Kaliy sorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E203",
+    "description": "Kalsiy sorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E203",
+    "description": "Kalsiy sorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E210",
+    "description": "Benzoy kislotasi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E211",
+    "description": "Natriy benzoat",
+    "type": "Halol"
+  },
+  {
+    "code": "E212",
+    "description": "Kaliy benzoat",
+    "type": "Halol"
+  },
+  {
+    "code": "E213",
+    "description": "Kaltsiy benzoat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E214",
+    "description": "Etil 4-gidroksibenzoat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E215",
+    "description": "Etil 4-gidroksibenzoat, natriy tuzi",
+    "type": "Halol"
+  },
+  {
+    "code": "E216",
+    "description": "Propil 4-gidroksibenzoat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E217",
+    "description": "Propil 4-gidroksibenzoat, natriy tuzi",
+    "type": "Halol"
+  },
+  {
+    "code": "E218",
+    "description": "Metil 4-gidroksibenzoat",
+    "type": "Halol"
+  },
+  {
+    "code": "E219",
+    "description": "Metil 4-gidroksibenzoat, natriy tuzi",
+    "type": "Halol"
+  },
+  {
+    "code": "E220",
+    "description": "oltingugurt dioksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E221",
+    "description": "Natriy sulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E222",
+    "description": "Natriy vodorod sulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E223",
+    "description": "Natriy metabisulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E224",
+    "description": "Kaliy metabisulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E226",
+    "description": "Kalsiy sulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E227",
+    "description": "Kalsiy vodorod sulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E228",
+    "description": "Kaliy vodorod sulfit",
+    "type": "Halol"
+  },
+  {
+    "code": "E230",
+    "description": "Bifenil / Difenil",
+    "type": "Halol"
+  },
+  {
+    "code": "E231",
+    "description": "2-gidroksibifenil",
+    "type": "Halol"
+  },
+  {
+    "code": "E232",
+    "description": "Natriy bifenil-2-il oksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E233",
+    "description": "2-(Tiyazol-4-il) Benzimidazol",
+    "type": "Halol"
+  },
+  {
+    "code": "E234",
+    "description": "Nisin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E235",
+    "description": "Natamitsin",
+    "type": "Halol"
+  },
+  {
+    "code": "E239",
+    "description": "Gekamin",
+    "type": "Halol"
+  },
+  {
+    "code": "E242",
+    "description": "Dimetil dikarbonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E249",
+    "description": "Kaliy nitrat",
+    "type": "Halol"
+  },
+  {
+    "code": "E250",
+    "description": "natriy nitrit",
+    "type": "Halol"
+  },
+  {
+    "code": "E251",
+    "description": "natriy nitrat",
+    "type": "Halol"
+  },
+  {
+    "code": "E252",
+    "description": "Kaliy nitrat (Selitra)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E260",
+    "description": "Sirka kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E261",
+    "description": "Kaliy asetat",
+    "type": "Halol"
+  },
+  {
+    "code": "E262",
+    "description": "Natriy asetatlar",
+    "type": "Halol"
+  },
+  {
+    "code": "E263",
+    "description": "Kaltsiy asetat",
+    "type": "Halol"
+  },
+  {
+    "code": "E270",
+    "description": "Sut kislotasi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E280",
+    "description": "Propion kislotasi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E281",
+    "description": "Natriy propionat",
+    "type": "Halol"
+  },
+  {
+    "code": "E282",
+    "description": "Kaltsiy propionat",
+    "type": "Halol"
+  },
+  {
+    "code": "E283",
+    "description": "Kaliy propionat",
+    "type": "Halol"
+  },
+  {
+    "code": "E284",
+    "description": "Borik kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E285",
+    "description": "Natriy tetraborat; Boraks",
+    "type": "Halol"
+  },
+  {
+    "code": "E290",
+    "description": "Karbonat angidrid",
+    "type": "Halol"
+  },
+  {
+    "code": "E296",
+    "description": "Malik kislota",
+    "type": "Halol"
+  },
+  {
+    "code": "E297",
+    "description": "Fumarik kislota",
+    "type": "Halol"
+  },
+  {
+    "code": "E300",
+    "description": "L-askorbin kislotasi (Vitamin C)",
+    "type": "Halol"
+  },
+  {
+    "code": "E301",
+    "description": "Natriy-L-Askorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E302",
+    "description": "Kaltsiy-L-Askorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E304",
+    "description": "Askorbil Palmitat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E306",
+    "description": "Antioksidantlar - E vitamini",
+    "type": "Muboh"
+  },
+  {
+    "code": "E307",
+    "description": "Sintetik alfa-tokoferol",
+    "type": "Halol"
+  },
+  {
+    "code": "E308",
+    "description": "Sintetik gamma-tokoferol",
+    "type": "Halol"
+  },
+  {
+    "code": "E309",
+    "description": "Sintetik Delta-Tokoferol",
+    "type": "Halol"
+  },
+  {
+    "code": "E310",
+    "description": "Propil gallat",
+    "type": "Halol"
+  },
+  {
+    "code": "E311",
+    "description": "Oktil gallat",
+    "type": "Halol"
+  },
+  {
+    "code": "E312",
+    "description": "Dodesil Gallat",
+    "type": "HALAL"
+  },
+  {
+    "code": "E315",
+    "description": "eritorbin kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E316",
+    "description": "Natriy eritorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E316",
+    "description": "Natriy eritorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E316",
+    "description": "Natriy eritorbat",
+    "type": "Halol"
+  },
+  {
+    "code": "E319",
+    "description": "Tert-Butilgidrokinon (TBHQ)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E320",
+    "description": "Butillangan gidroksianizol (BHA)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E321",
+    "description": "Butillangan gidroksitoluol (BHT)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E322",
+    "description": "Lesitin",
+    "type": "Halol"
+  },
+  {
+    "code": "E325",
+    "description": "Natriy laktat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E326",
+    "description": "Kaliy laktat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E327",
+    "description": "Kaltsiy laktat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E330",
+    "description": "Limon kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E331",
+    "description": "Natriy sitratlari",
+    "type": "Halol"
+  },
+  {
+    "code": "E332",
+    "description": "Kaliy sitratlari",
+    "type": "Halol"
+  },
+  {
+    "code": "E333",
+    "description": "Kaltsiy sitratlari",
+    "type": "Halol"
+  },
+  {
+    "code": "E334",
+    "description": "Tartarik kislota",
+    "type": "Muboh"
+  },
+  {
+    "code": "E335",
+    "description": "Natriy tartratlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E336",
+    "description": "Kaliyli tatratlar (tatar kremi)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E337",
+    "description": "Kaliy natriy tartratlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E338",
+    "description": "Ortofosfor kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E339",
+    "description": "natriy fosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E340",
+    "description": "Kaliy fosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E341",
+    "description": "Kaltsiy fosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E343",
+    "description": "magniy fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E350",
+    "description": "Natriy malat",
+    "type": "Halol"
+  },
+  {
+    "code": "E351",
+    "description": "Kaliy malat",
+    "type": "Halol"
+  },
+  {
+    "code": "E352",
+    "description": "Kaltsiy malat",
+    "type": "Halol"
+  },
+  {
+    "code": "E353",
+    "description": "Metatar kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E354",
+    "description": "Kalsiy tartrat",
+    "type": "Harom"
+  },
+  {
+    "code": "E355",
+    "description": "Adipik kislota",
+    "type": "Halol"
+  },
+  {
+    "code": "E356",
+    "description": "natriy adipati",
+    "type": "Muboh"
+  },
+  {
+    "code": "E357",
+    "description": "Kaliy adipat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E363",
+    "description": "Suksinik kislota",
+    "type": "Halol"
+  },
+  {
+    "code": "E370",
+    "description": "1,4-Geptonolaktan",
+    "type": "Halol"
+  },
+  {
+    "code": "E375",
+    "description": "Nikotinik kislota",
+    "type": "Halol"
+  },
+  {
+    "code": "E380",
+    "description": "Triammoniy sitrat",
+    "type": "Halol"
+  },
+  {
+    "code": "E381",
+    "description": "Ammoniy temir sitrat",
+    "type": "Halol"
+  },
+  {
+    "code": "E385",
+    "description": "Kalsiy disodium EDTA",
+    "type": "Halol"
+  },
+  {
+    "code": "E400",
+    "description": "Algin kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E401",
+    "description": "Natriy alginat",
+    "type": "Halol"
+  },
+  {
+    "code": "E402",
+    "description": "Kaliy alginat",
+    "type": "Halol"
+  },
+  {
+    "code": "E403",
+    "description": "Ammoniy alginat",
+    "type": "Halol"
+  },
+  {
+    "code": "E404",
+    "description": "Kaltsiy alginat",
+    "type": "Halol"
+  },
+  {
+    "code": "E405",
+    "description": "Propan-1,2-diol alginat",
+    "type": "Halol"
+  },
+  {
+    "code": "E406",
+    "description": "Agar",
+    "type": "Halol"
+  },
+  {
+    "code": "E407",
+    "description": "Karragenan",
+    "type": "Muboh"
+  },
+  {
+    "code": "E410",
+    "description": "Chigirtka saqichi (karob saqich)",
+    "type": "Halol"
+  },
+  {
+    "code": "E412",
+    "description": "Guar Gum",
+    "type": "Halol"
+  },
+  {
+    "code": "E413",
+    "description": "Tragacanth",
+    "type": "Halol"
+  },
+  {
+    "code": "E414",
+    "description": "Gum Acacia (Gum Arab)",
+    "type": "Halol"
+  },
+  {
+    "code": "E415",
+    "description": "Xanthan Gum",
+    "type": "Halol"
+  },
+  {
+    "code": "E416",
+    "description": "Karayya Gum",
+    "type": "Halol"
+  },
+  {
+    "code": "E417",
+    "description": "Tara Gum",
+    "type": "Halol"
+  },
+  {
+    "code": "E418",
+    "description": "Gellan Gum",
+    "type": "Halol"
+  },
+  {
+    "code": "E420",
+    "description": "Sorbitol",
+    "type": "Halol"
+  },
+  {
+    "code": "E421",
+    "description": "Mannitol",
+    "type": "Halol"
+  },
+  {
+    "code": "E422",
+    "description": "Glitserin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E425",
+    "description": "Konjac",
+    "type": "Halol"
+  },
+  {
+    "code": "E430",
+    "description": "Polioksietan (8) Stearat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E431",
+    "description": "Polioksietan (40) stearat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E432",
+    "description": "Polioksietan (20) Sorbitan / Polisorbat 20",
+    "type": "Muboh"
+  },
+  {
+    "code": "E433",
+    "description": "Polioksietan (20) Sorbitan Mono-oleat / Polisorbat 80.",
+    "type": "Muboh"
+  },
+  {
+    "code": "E434",
+    "description": "Polioksietan (20) Sorbitan Monopalmitat / Polisorbat 40",
+    "type": "Muboh"
+  },
+  {
+    "code": "E435",
+    "description": "Polioksietan (20) Sorbitan Monostearat / Polisorbat 60",
+    "type": "Muboh"
+  },
+  {
+    "code": "E436",
+    "description": "Polioksietan (20) Sorbitan Tristearat / Polisorbat 65",
+    "type": "Muboh"
+  },
+  {
+    "code": "E440a",
+    "description": "Pektin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E440b",
+    "description": "Amidlangan pektin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E441",
+    "description": "Jelatin",
+    "type": "Muboh"
+  },
+  {
+    "code": "E442",
+    "description": "Ammoniy fosfatidlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E444",
+    "description": "saxaroza acsetat izobutirat",
+    "type": "Halol"
+  },
+  {
+    "code": "E445",
+    "description": "yog'och kanifolining glitserin efirlari",
+    "type": "Halol"
+  },
+  {
+    "code": "E450a",
+    "description": "Natriy va kaliy fosfatlar va polifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E450b",
+    "description": "Natriy va kaliy fosfatlar va polifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E450c",
+    "description": "Natriy va kaliy fosfatlar va polifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E451",
+    "description": "Trifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E452",
+    "description": "polifosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E459",
+    "description": "Beta-siklodekstrin",
+    "type": "Halol"
+  },
+  {
+    "code": "E460",
+    "description": "Mikrokristalin / chang tsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E461",
+    "description": "Metiltsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E463",
+    "description": "Gidroksipropiltsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E464",
+    "description": "Gidroksipropil-metiltsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E465",
+    "description": "Etilmetiltsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E466",
+    "description": "Karboksimetilselüloza, natriy tuzi",
+    "type": "Halol"
+  },
+  {
+    "code": "E467",
+    "description": "Natriy karboksi metil tsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E468",
+    "description": "O'zaro bog'langan karboksi metil tsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E469",
+    "description": "Enzimatik gidrolizlangan karboksimetil tsellyuloza",
+    "type": "Halol"
+  },
+  {
+    "code": "E470",
+    "description": "yog'li kislotalarning natriy, kaliy va kaltsiy tuzlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E471",
+    "description": "Mono-va diglitserids of yog kislotalari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E472",
+    "description": "Mono-va diglitseridlarning yog'li kislotalarning turli efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E472e",
+    "description": "Mono va diglitseridlarning mono va diatsetil tartarik kislota efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E473",
+    "description": "Yog'li kislotalarning saxaroza efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E474",
+    "description": "Sukrogliseridlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E475",
+    "description": "Yog'li kislotalarning poligliserin efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E476",
+    "description": "Kaster yog'ining polikondensatlangan efirlarining poligliserinli efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E477",
+    "description": "Yog'li kislotalarning propan-1,2-diol efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E478",
+    "description": "Glitserin va propan-1,2-diolning laktillangan yog 'kislotasi efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E479b",
+    "description": "Termik oksidlangan soya yog'i yog' kislotalarining mono va diglitseridlari bilan o'zaro ta'sir qiladi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E481",
+    "description": "Natriy Stearoil-2-laktilat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E482",
+    "description": "Kalsiy Stearoil-2-laktilat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E483",
+    "description": "Stearil tartrat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E491",
+    "description": "Sorbitan Monostearate",
+    "type": "Muboh"
+  },
+  {
+    "code": "E492",
+    "description": "Sorbitan Tristearat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E493",
+    "description": "Sorbitan monolaurate",
+    "type": "Muboh"
+  },
+  {
+    "code": "E494",
+    "description": "Sorbitan Mono-oleate",
+    "type": "Muboh"
+  },
+  {
+    "code": "E495",
+    "description": "Sorbitan monopalmitat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E496",
+    "description": "Sorbitan Trioleate",
+    "type": "Muboh"
+  },
+  {
+    "code": "E500",
+    "description": "Natriy karbonat / natriy bikarbonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E501",
+    "description": "Kaliy karbonat / kaliy bikarbonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E503",
+    "description": "Ammoniy karbonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E504",
+    "description": "Magniy karbonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E507",
+    "description": "Xlorid kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E508",
+    "description": "Kaliy xlorid",
+    "type": "Halol"
+  },
+  {
+    "code": "E509",
+    "description": "Kaltsiy xlorid",
+    "type": "Halol"
+  },
+  {
+    "code": "E510",
+    "description": "Ammoniy xlorid",
+    "type": "Halol"
+  },
+  {
+    "code": "E511",
+    "description": "Magniy xlorid",
+    "type": "Halol"
+  },
+  {
+    "code": "E512",
+    "description": "Stannoz xlorid",
+    "type": "Halol"
+  },
+  {
+    "code": "E513",
+    "description": "Sulfat kislotasi",
+    "type": "Halol"
+  },
+  {
+    "code": "E514",
+    "description": "Natriy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E515",
+    "description": "Kaliy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E516",
+    "description": "Kaltsiy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E517",
+    "description": "Ammoniy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E518",
+    "description": "Magniy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E520",
+    "description": "Almuniy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E521",
+    "description": "alyuminiy natriy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E522",
+    "description": "alyuminiy kaliy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E523",
+    "description": "alyuminiy ammoniy sulfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E524",
+    "description": "Natriy gidroksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E525",
+    "description": "Kaliy gidroksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E526",
+    "description": "Kaltsiy gidroksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E527",
+    "description": "Ammoniy gidroksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E528",
+    "description": "Magniy gidroksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E529",
+    "description": "Kaltsiy oksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E530",
+    "description": "Magniy oksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E535",
+    "description": "Natriy ferrosiyanid",
+    "type": "Halol"
+  },
+  {
+    "code": "E536",
+    "description": "Kaliy ferrosiyanid",
+    "type": "Halol"
+  },
+  {
+    "code": "E538",
+    "description": "Kalsiy ferrosiyanid",
+    "type": "Halol"
+  },
+  {
+    "code": "E540",
+    "description": "Dikalsiy ferrosiyanid",
+    "type": "Halol"
+  },
+  {
+    "code": "E541",
+    "description": "natriy alyuminiy fosfat",
+    "type": "Halol"
+  },
+  {
+    "code": "E542",
+    "description": "Ovqatlanadigan suyak fosfati (suyak ovqati)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E544",
+    "description": "Kaltsiy polifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E545",
+    "description": "Ammoniy polifosfatlar",
+    "type": "Muboh"
+  },
+  {
+    "code": "E550",
+    "description": "natriy silikat",
+    "type": "Halol"
+  },
+  {
+    "code": "E551",
+    "description": "Kremniy dioksidi (kremniy tuzi)",
+    "type": "Halol"
+  },
+  {
+    "code": "E552",
+    "description": "Kaltsiy silikat",
+    "type": "Halol"
+  },
+  {
+    "code": "E553",
+    "description": "Magniy silikat / magniy trisilikat (talk)",
+    "type": "Halol"
+  },
+  {
+    "code": "E554",
+    "description": "alyuminiy natriy silikat",
+    "type": "Halol"
+  },
+  {
+    "code": "E555",
+    "description": "Kaliy alyuminiy sillikat",
+    "type": "Halol"
+  },
+  {
+    "code": "E556",
+    "description": "alyuminiy kaltsiy silikat",
+    "type": "Halol"
+  },
+  {
+    "code": "E558",
+    "description": "Bentonit",
+    "type": "Halol"
+  },
+  {
+    "code": "E559",
+    "description": "Kaolin (alyuminiy silikat)",
+    "type": "Halol"
+  },
+  {
+    "code": "E570",
+    "description": "Stearik kislota",
+    "type": "Muboh"
+  },
+  {
+    "code": "E572",
+    "description": "Magniy stearati",
+    "type": "Muboh"
+  },
+  {
+    "code": "E574",
+    "description": "Glyukonik kislotalar",
+    "type": "Halol"
+  },
+  {
+    "code": "E575",
+    "description": "Glucono Delta-Lakton",
+    "type": "Halol"
+  },
+  {
+    "code": "E576",
+    "description": "Natriy glyukonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E577",
+    "description": "Kaliy glyukonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E578",
+    "description": "Kaltsiy glyukonat",
+    "type": "Halol"
+  },
+  {
+    "code": "E585",
+    "description": "Temir laktat",
+    "type": "Halol"
+  },
+  {
+    "code": "E620",
+    "description": "L-glutamik kislota",
+    "type": "Muboh"
+  },
+  {
+    "code": "E621",
+    "description": "Monosodyum glutamat (MSG)",
+    "type": "Muboh"
+  },
+  {
+    "code": "E622",
+    "description": "Monokaliy glutamat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E623",
+    "description": "Kaltsiy glutamat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E624",
+    "description": "Mono ammoniy glutamat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E625",
+    "description": "Magniy diglutamat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E626",
+    "description": "Guanil kislotasi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E627",
+    "description": "Natriy guanilat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E628",
+    "description": "Dipotassium Guanilat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E629",
+    "description": "Kaltsiy guanilat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E630",
+    "description": "inosinik kislota",
+    "type": "Muboh"
+  },
+  {
+    "code": "E631",
+    "description": "Natriy inosinat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E632",
+    "description": "Dipotassium inosinate",
+    "type": "Muboh"
+  },
+  {
+    "code": "E633",
+    "description": "Kaltsiy inosinat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E634",
+    "description": "Kalsiy5-ribonukleotid",
+    "type": "Muboh"
+  },
+  {
+    "code": "E635",
+    "description": "Natriy5-ribonukleotid",
+    "type": "Muboh"
+  },
+  {
+    "code": "E636",
+    "description": "Maltol",
+    "type": "Halol"
+  },
+  {
+    "code": "E637",
+    "description": "Etil Maltol",
+    "type": "Halol"
+  },
+  {
+    "code": "E640",
+    "description": "Glitsin va uning natriy tuzi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E650",
+    "description": "Rink asetat",
+    "type": "Halol"
+  },
+  {
+    "code": "E900",
+    "description": "Dimetilpolisiloksan",
+    "type": "Halol"
+  },
+  {
+    "code": "E901",
+    "description": "Asal mumi",
+    "type": "Halol"
+  },
+  {
+    "code": "E902",
+    "description": "Candelilla mumi",
+    "type": "Halol"
+  },
+  {
+    "code": "E903",
+    "description": "Carnauba mumi",
+    "type": "Halol"
+  },
+  {
+    "code": "E904",
+    "description": "Shellac",
+    "type": "Muboh"
+  },
+  {
+    "code": "E905",
+    "description": "Mineral uglevodorodlar",
+    "type": "Halol"
+  },
+  {
+    "code": "E907",
+    "description": "Tozalangan mikrokristalli mum",
+    "type": "Muboh"
+  },
+  {
+    "code": "E912",
+    "description": "Montan kislotasi efirlari",
+    "type": "Muboh"
+  },
+  {
+    "code": "E913",
+    "description": "Lanolin",
+    "type": "Halol"
+  },
+  {
+    "code": "E914",
+    "description": "Oksidlangan polietilen mumi",
+    "type": "Halol"
+  },
+  {
+    "code": "E920",
+    "description": "L-sistein gidroxloridi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E924",
+    "description": "Kaliy bromat",
+    "type": "Halol"
+  },
+  {
+    "code": "E925",
+    "description": "Xlor",
+    "type": "Halol"
+  },
+  {
+    "code": "E926",
+    "description": "Xlor dioksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E927b",
+    "description": "Karbamid",
+    "type": "Halol"
+  },
+  {
+    "code": "E938",
+    "description": "Argon",
+    "type": "Halol"
+  },
+  {
+    "code": "E939",
+    "description": "geliy",
+    "type": "Halol"
+  },
+  {
+    "code": "E941",
+    "description": "Azot",
+    "type": "Halol"
+  },
+  {
+    "code": "E942",
+    "description": "Azot oksidi",
+    "type": "Halol"
+  },
+  {
+    "code": "E943a",
+    "description": "Butan",
+    "type": "Halol"
+  },
+  {
+    "code": "E943b",
+    "description": "Izo-butan",
+    "type": "Halol"
+  },
+  {
+    "code": "E944",
+    "description": "Propan",
+    "type": "Halol"
+  },
+  {
+    "code": "E949",
+    "description": "Vodorod",
+    "type": "Halol"
+  },
+  {
+    "code": "E951",
+    "description": "Aspartan",
+    "type": "Harom"
+  },
+  {
+    "code": "E953",
+    "description": "Izomalt",
+    "type": "Halol"
+  },
+  {
+    "code": "E954",
+    "description": "Saxarin",
+    "type": "Halol"
+  },
+  {
+    "code": "E965",
+    "description": "Maltitol",
+    "type": "Halol"
+  },
+  {
+    "code": "E966",
+    "description": "Laktitol",
+    "type": "Muboh"
+  },
+  {
+    "code": "E967",
+    "description": "Ksilitol",
+    "type": "Halol"
+  },
+  {
+    "code": "E968",
+    "description": "Eritritol",
+    "type": "Halol"
+  },
+  {
+    "code": "E999",
+    "description": "Quillaia ekstrakti",
+    "type": "Harom"
+  },
+  {
+    "code": "1100",
+    "description": "Amilaza fermenti",
+    "type": "Halol"
+  },
+  {
+    "code": "1101",
+    "description": "Proteaz fermenti",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1103",
+    "description": "Invertaz fermenti",
+    "type": "Halol"
+  },
+  {
+    "code": "E1105",
+    "description": "Lizozim fermenti",
+    "type": "Halol"
+  },
+  {
+    "code": "E1200",
+    "description": "Polidekstroz",
+    "type": "Halol"
+  },
+  {
+    "code": "E1201",
+    "description": "Polivinilpirolidon",
+    "type": "Halol"
+  },
+  {
+    "code": "E1400",
+    "description": "Dekstrin",
+    "type": "Halol"
+  },
+  {
+    "code": "E1401",
+    "description": "Kislota bilan ishlov berilgan kraxmal",
+    "type": "Halol"
+  },
+  {
+    "code": "E1404",
+    "description": "Oksidlangan kraxmal",
+    "type": "Halol"
+  },
+  {
+    "code": "E141",
+    "description": "Xlorofilning mis kompleksi",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1410",
+    "description": "Mono kraxmalli fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1412",
+    "description": "Starx fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1413",
+    "description": "Fosfatlangan sikraxal fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E142",
+    "description": "Green S / Acid Brilliant Green BS",
+    "type": "Halol"
+  },
+  {
+    "code": "E1420",
+    "description": "Atsetillangan kraxmal",
+    "type": "Halol"
+  },
+  {
+    "code": "E1422",
+    "description": "Atsetillangan kraxmal fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1442",
+    "description": "gidroksipropil distarx fosfat",
+    "type": "Muboh"
+  },
+  {
+    "code": "E1450",
+    "description": "kraxmal natriy oktenil süksinat",
+    "type": "Halol"
+  },
+  {
+    "code": "E1451",
+    "description": "Atsetillangan oksidlangan kraxmal",
+    "type": "Halol"
+  },
+  {
+    "code": "E1505",
+    "description": "Trietihl sitrat",
+    "type": "Halol"
+  },
+  {
+    "code": "E1518",
+    "description": "Glitseril triasetat, triasetin",
+    "type": "Halol"
+  },
+  {
+    "code": "E1520",
+    "description": "Propilen glikol",
+    "type": "Halol"
+  }
+]
