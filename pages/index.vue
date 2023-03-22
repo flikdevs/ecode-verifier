@@ -4,7 +4,7 @@ import { Element, CodeTypes } from "@/types/common";
 
 const code = ref("");
 
-const element = ref<Element>();
+const element = ref<Element | null>(null);
 
 const handleSearch = () => {
   if (code.value.trim().length > 0) {
@@ -44,34 +44,39 @@ const icon = (type: CodeTypes): string => {
       >
         Mahsulotlardagi moddalar halolligini tekshirish
       </p>
-      <div class="flex gap-x-1 mt-3 p-2 bg-white rounded-md shadow-md">
-        <input
-          v-model="code"
-          type="text"
-          class="border-2 border-gray-400 text-gray-500 text-lg font-semibold outline bg-gray-100 focus:(bg-white) p-2 outline-none rounded-md w-52"
-          placeholder="E421, E308"
-          @keyup.enter="handleSearch"
-        />
-        <button
-          class="px-3 py-2 bg-white border-2 border-gray-400 rounded-md text-gray-700 text-base font-semibold transition duration-300 tracking-wide"
-          @click="handleSearch"
-        >
-          Tekshirish
-        </button>
-      </div>
-      <div
-        v-if="element"
-        class="mt-4 w-[340px] min-h-40 bg-white shadow-md rounded-md text-gray-800 font-semibold text-center pt-3 text-shadow-none"
-      >
-        <h1
-          class="text-3xl font-semibold flex items-center justify-center gap-x-1"
-          :class="elementType(element.type as CodeTypes)"
-        >
-          <i class="material-icons">{{ icon(element.type as CodeTypes) }}</i
-          >{{ element.type }}
-        </h1>
-        <h3 class="text-xl my-2">{{ element.code }}</h3>
-        <p>{{ element.description }}</p>
+      <div>
+        <div class="flex gap-x-2 mt-3 p-4 bg-white rounded-md shadow-md">
+          <Input
+            v-model="code"
+            class="!text-lg text-gray-800"
+            placeholder="E421, E308"
+            @keyup.enter="handleSearch"
+          />
+          <Button
+            class="!text-lg shadow"
+            @click="handleSearch"
+            :disabled="code.length === 0"
+          >
+            Tekshirish
+          </Button>
+        </div>
+        <div class="mt-4">
+          <div
+            v-if="element"
+            class="min-h-40 py-4 mx-auto rounded-lg bg-white shadow text-gray-800 font-semibold text-center pt-3 text-shadow-none"
+          >
+            <h1
+              class="text-3xl font-semibold flex items-center justify-center gap-x-1"
+              :class="elementType(element.type as CodeTypes)"
+            >
+              <i class="material-icons">{{ icon(element.type as CodeTypes) }}</i
+              >{{ element.type }}
+            </h1>
+            <h3 class="text-xl my-2">{{ element.code }}</h3>
+            <p>{{ element.description }}</p>
+          </div>
+          <NotFound v-if="element == undefined" />
+        </div>
       </div>
     </div>
   </div>

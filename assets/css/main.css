@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 body {
-  font-family: 'Montserrat', sans-serif;
-  @apply bg-gradient-to-tr from-indigo-600 to-violet-500;
+  font-family: "Montserrat", sans-serif;
+  @apply bg-gradient-to-br to-green-600 from-primary-600;
 }

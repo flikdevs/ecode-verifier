@@ -1,19 +1,6 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
-/* 
-<meta property="" content="">
-
-<!-- Twitter -->
-<meta property="twitter:url" content="https://ecodes.vercel.app/">
-<meta property="twitter:title" content="E-Kod Tekshiruvchi">
-<meta property="twitter:description" content="Mahsulotlardagi moddalar halolligini tekshirish
-
-">
-<meta property="twitter:image" content="">
-*/
-
 export default defineNuxtConfig({
-  modules: ["nuxt-windicss"],
   css: ["@/assets/css/main.css"],
+  modules: ["@nuxtjs/tailwindcss"],
   app: {
     head: {
       title: "E-Kod Tekshiruvchi",
