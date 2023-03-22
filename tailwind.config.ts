@@ -13,7 +13,7 @@ export default <Partial<Config>>{
   theme: {
     extend: {
       colors: {
-        primary: colors.blue,
+        primary: colors.green,
         secondary: colors.slate,
       },
       fontFamily: {
