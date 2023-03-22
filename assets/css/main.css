@@ -2,5 +2,5 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  @apply bg-gradient-to-br to-green-600 from-primary-600;
+  @apply bg-gradient-to-br to-green-600 from-blue-600;
 }
